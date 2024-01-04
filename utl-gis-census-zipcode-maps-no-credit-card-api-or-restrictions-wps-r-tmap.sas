@@ -2,6 +2,10 @@
 
 Using census zipcode maps no credit card api or restrictions wps r tmap
 
+Output zipcode map                                                                                                                    
+http://tinyurl.com/2ukfn9x5                                                                                                    
+https://github.com/rogerjdeangelis/utl-gis-census-zipcode-maps-no-credit-card-api-or-restrictions-wps-r-tmap/blob/main/age.pdf 
+
 github
 http://tinyurl.com/yvj8jnau
 https://github.com/rogerjdeangelis/utl-gis-census-zipcode-maps-no-credit-card-api-or-restrictions-wps-r-tmap
