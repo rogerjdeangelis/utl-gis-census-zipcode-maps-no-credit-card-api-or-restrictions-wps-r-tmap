@@ -4,6 +4,9 @@ Using census zipcode maps no credit card api or restrictions wps r tmap
 
     Using census zipcode maps no credit card api or restrictions wps r tmap
 
+    ZOutput Zpcode map                                                                                                                    
+    http://tinyurl.com/2ukfn9x5                                                                                                    
+    https://github.com/rogerjdeangelis/utl-gis-census-zipcode-maps-no-credit-card-api-or-restrictions-wps-r-tmap/blob/main/age.pdf 
     github
     http://tinyurl.com/yvj8jnau
     https://github.com/rogerjdeangelis/utl-gis-census-zipcode-maps-no-credit-card-api-or-restrictions-wps-r-tmap
